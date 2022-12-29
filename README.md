@@ -1,4 +1,4 @@
-# EDA-Airbnb-capstone
+# EDA-Airbnb-Capstone
 Airbnb has revolutionized the way people travel and experience new places by providing a unique and personalized alternative to traditional hotel stays. By connecting hosts who have extra space in their homes or apartments with travelers looking for a more authentic and local experience, Airbnb has created a thriving community of people from all over the world who are passionate about exploring new cultures and sharing their own.
 
 As Airbnb has grown in popularity, the company has also recognized the value of data analysis in understanding its customers and hosts, making informed business decisions, and identifying new opportunities for growth. With millions of listings on its platform, Airbnb generates a vast amount of data that can be used to gain insights into the behavior and performance of hosts and guests.
